@@ -7,7 +7,7 @@ focado em construir bases sólidas em desenvolvimento web.
 
 ## 🛠 Habilidades Técnicas
 - **Linguagens de Marcação e Estilo**: HTML5, CSS3
-- **Frameworks CSS**: Bootstrap, Sass
+- **Frameworks CSS**: Tailwind, Sass
 - **Controle de Versão**: Git/GitHub
 - **Atualmente estudando**: JavaScript (ECMAScript 6+)
 
